@@ -9,5 +9,5 @@ anonfile.upload_file(file)
 
 for get info file:
 
-info = anonfile.get_file_info(id)
+anonfile.get_file_info(id)
 
